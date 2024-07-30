@@ -16,4 +16,4 @@ O projeto é totalmente responsivo, ou seja, se ajusta automaticamente ao tamanh
 * **TypeScript:** Superconjunto tipado do JavaScript.
 * **Tailwind CSS:** Framework CSS para construção de interfaces de usuário customizadas.
 
-Deploy do projeto:(https://arturia-store.vercel.app/)
+Deploy do projeto: https://arturia-store.vercel.app/
