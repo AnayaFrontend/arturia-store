@@ -1,8 +1,12 @@
 ## Lista de produtos e carrinho de Compras com Next.js, React, TypeScript e Tailwind CSS
 
 ### Descrição
-Este projeto implementa um carrinho de compras simples utilizando as tecnologias Next.js, React, TypeScript e Tailwind CSS. A aplicação permite:
+Este projeto consiste em uma página com uma lista de produtos, simulando um sistema de ecommerce que adiciona, incrementa e remove produtos do carrinho de compras, podendo visualizar na página do carrinho os produtos que foram adicionados. O projeto foi criado utilizando as tecnologias Next.js, React, TypeScript e Tailwind CSS.
 
+Recursos da aplicação:
+
+* **Página de produtos:** Lista de produtos na página principal.
+* **Página do Carrinho:** Página que contém os produtos adicionados ao carrinho.
 * **Listagem de produtos:** Exibe uma lista de produtos com informações básicas como nome, preço e imagem.
 * **Adição ao carrinho:** Permite adicionar produtos ao carrinho com um simples clique em um botão.
 * **Remoção de produtos:** Permite remover produtos do carrinho, atualizando o total automaticamente.
