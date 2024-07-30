@@ -1,4 +1,4 @@
-## Carrinho de Compras com Next.js, React, TypeScript e Tailwind CSS
+## Lista de produtos e carrinho de Compras com Next.js, React, TypeScript e Tailwind CSS
 
 ### Descrição
 Este projeto implementa um carrinho de compras simples utilizando as tecnologias Next.js, React, TypeScript e Tailwind CSS. A aplicação permite:
